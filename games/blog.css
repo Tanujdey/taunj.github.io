@@ -1,0 +1,186 @@
+body{
+	background-color:#f1f1f1!important;
+/*	background-image: url("video.jpg");*/
+	 
+	margin:0;
+}
+.heading{
+	position:fixed;
+	display:inline-block;
+	width:100%;
+}
+hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 2px 0;
+}
+hr {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+hr.first {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 10px 0;
+}
+hr.first {
+    box-sizing: content-box;
+    height: 0;
+    overflow: visible;
+}
+.heading ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	
+}
+
+li {
+   float:left;
+	
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover:not(.active) {
+    background-color: rgba(255,0,0,0.8);
+	
+}
+.logo{
+	position:relative;
+	/*display:block;*/
+	margin-left:175px;
+	overflow:auto;
+	
+}
+.active1{
+	background-color: #4CAF50;
+}
+.box{
+	margin:0;
+	height: 500px;
+	background-image:url('videogame.jpg');
+	box-shadow: 1px 5px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)!important;
+
+	
+}
+div .col_1{
+	float:left;
+	position:fixed;
+	margin:0;
+}
+div.col_2{
+	position:none;
+	width:auto;
+	float:right;
+	margin:0;
+		
+} 
+.box_left{
+	
+	height: 750px;
+	width:794px;
+	float:left;
+	background-color:white;
+	margin-left:15px;
+	box-shadow: 1px 10px 41px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)!important;
+
+	
+	}
+.box_right{
+	margin-right:20px;\
+	
+	height:550px;
+	width:500px;
+	float:right;
+	box-shadow: 10px 10px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)!important;
+	 
+}
+.img{
+	
+    border-style:none ;
+    float: left;
+	height:386px;
+	width:100%;
+	margin-bottom: 21px;
+	box-sizing: inherit;
+}
+.container_h{
+	display:block;	
+	padding-left:10px; 
+}
+.container_p{
+	display:block;
+	padding: 0.01em 13px;
+	text-align: justify;
+	font-family:serif;
+	font-size:18px;
+}
+.button{
+	width:59%;
+	float:left;
+}
+.buttom{
+	margin-left:15px;
+	color: #000;
+    background-color: #fff;
+	padding: 13px 24px;
+	border: 1px solid #ccc;
+}
+.buttom:hover{
+	box-shadow: 1px 5px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)!important;
+}
+.img1{
+	
+    border-style:none ;
+    float: left;
+	height:300px;
+	width:100%;
+	margin-bottom: 21px;
+	box-sizing: inherit;
+}
+.button_right{
+	width:34%;
+	position:relative;
+	right:4px;
+	float:right;
+	margin-top:-28px;
+	
+}
+.buttom_right{
+	margin-top:-50px;
+	color: #000;
+    background-color: #fff;
+	padding: 13px 24px;
+	border: 1px solid #ccc;
+}
+.buttom_right:hover{
+	box-shadow: 1px 5px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)!important;
+}
+/*-----------------------------------------------------------------------------------------------------*/
+.box_right_1{
+	background-color:white;
+	position:none;
+	margin-top:20px;
+	margin-right:20px;
+	height:550px;
+	width:500px;
+	float:right;
+	box-shadow: 10px 10px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)!important;
+	 
+}
+
+
+
+
+
+
+
